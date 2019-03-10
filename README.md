@@ -1,6 +1,6 @@
 # Example Lektor
 
-This is the output of [Lektor's](https://www.getlektor.com/docs/quickstart/) quickstart with the [Lektor Strap](https://github.com/Andrew-Shay/lektor-theme-simple-strap) theme manually copied to the asset/model/template directories. 
+This is the output of [Lektor's](https://www.getlektor.com/docs/quickstart/) quickstart with the [Terminal](https://github.com/terminal-labs/lektor-theme-terminal) theme.
 
 
 ## Requirements
