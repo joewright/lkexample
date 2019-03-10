@@ -1,0 +1,3 @@
+[submodule "Example/themes/lektor-theme-terminal"]
+	path = Example/themes/lektor-theme-terminal
+	url = https://github.com/terminal-labs/lektor-theme-terminal

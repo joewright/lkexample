@@ -7,6 +7,12 @@ This is the output of [Lektor's](https://www.getlektor.com/docs/quickstart/) qui
 - [Docker](https://www.docker.com/get-started)
 
 ## Getting started
+Install the [Terminal](https://github.com/terminal-labs/lektor-theme-terminal) theme
+```bash
+git submodule init
+git submodule update
+```
+
 Run the local web server via
 ```bash
 docker-compose up
