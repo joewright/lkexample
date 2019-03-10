@@ -1,0 +1,10 @@
+version: '3'
+services:
+  lektor:
+    build: .
+    ports:
+      - 5000:5000
+    volumes:
+      - ./:/src
+    working_dir: /src
+    command: lektor --project Example server --host 0.0.0.0 --port 5000 --prune
